@@ -33,3 +33,7 @@
 - how to get a DOI
 - how we use GitHub
 - demonstrating few Python packages that we use all the time
+- data management
+- data repositories
+- data formats, feather format.
+- optimizing data i/o.
