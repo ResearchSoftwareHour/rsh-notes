@@ -32,3 +32,4 @@
 - profiling code for CPU and memory bottlenecks
 - how to get a DOI
 - how we use GitHub
+- demonstrating few Python packages that we use all the time
