@@ -26,3 +26,9 @@
 - moving documentation from X to readthedocs
 - working with conda
 - how to open source a code
+- getting your Python project to PyPI
+- CMake best practices
+- a tour of the Rust programming language
+- profiling code for CPU and memory bottlenecks
+- how to get a DOI
+- how we use GitHub
