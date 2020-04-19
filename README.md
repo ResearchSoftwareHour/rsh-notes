@@ -17,6 +17,7 @@ Our first focus is research software skills, such as:
 - pair programming with our normal work
 - CMake best practices
 - demonstrating few Python packages that we use all the time
+- Sample data, how would analyze it?  make repo, load, reformat, wrangle, plot.
 
 ### Scientific computing support skills
 
