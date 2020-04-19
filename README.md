@@ -79,3 +79,7 @@ Good software leads to good open science, and vice versa:
 ### Discussion time
 
 We answer any questions our watchers may have.  Try to stump us!
+
+### Other resources
+
+- TIL: collections of short stuff someone has learned, 1-3 minutes each: https://github.com/jbranchaud/til/
