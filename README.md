@@ -31,13 +31,19 @@ There are tons of related tools for working with code:
 ### Evaluate *your* own code
 
 We can take the code from a listener, go through it, discuss and
-improve it.  Suggest by opening an issue in this repository.
+improve it.  Suggest by opening an issue in this repository or
+contacting one of us.
 
 - The code should have some open license, so that we can distribute it
   to our viewers and add it to our materials.  In return, we
-  distribute our improvements back to you.
-- We should be able to understand the gist of it quickly, and provide
-  some feedback to our community.
+  distribute our improvements back to you.  It will be streamed on a
+  public, CC-BY licensed stream.
+- We should be able to explain the gist of it quickly, and provide
+  some interesting feedback to our community.
+- We will link to the code, so that others can check it out
+  themselves - both before and after.
+- You can join us on stream and discuss with us live, but you can also
+  remain anonymous if you want.
 
 
 ### Other courses
