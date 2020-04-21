@@ -56,6 +56,7 @@ will improve almost all of your work (whatever operating system you use):
 - tmux/screen
 - getopts
 - git-pr
+- tldr
 
 ### Data management
 
