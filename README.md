@@ -8,6 +8,19 @@ Each week, we want to do some simple stuff, some advanced stuff, some
 stuff more towards software/programming, some stuff more towards
 scientific computing/Linux.
 
+### Types
+
+Types of segments, from least preparation to most
+* Q&A (0m)
+* Stump us (0m)
+* Poll to decide spontaneous topic (0m)
+* Commercial break (2m)
+* Point out other good stuff to listen to (5m)
+* Demonstrate a tool which we recently learned about
+* Teach something (20m)
+* Review some code (20m)
+* Interviews (1h)
+
 ### Research programming
 Our first focus is research software skills, such as:
 
