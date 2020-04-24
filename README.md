@@ -10,12 +10,13 @@ scientific computing/Linux.
 
 ### Types
 
-Types of segments, from least preparation to most
+Types of segments, from least preparation to most (example prep time)
 * Q&A (0m)
 * Stump us (0m)
 * Poll to decide spontaneous topic (0m)
 * Commercial break (2m)
 * Point out other good stuff to listen to (5m)
+* Normal pair programming (15m)
 * Demonstrate a tool which we recently learned about
 * Teach something (20m)
 * Review some code (20m)
