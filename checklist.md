@@ -6,9 +6,7 @@ Advance:
 
 1. Write session outline
    - Add in extra/optional stuff
-   - 
-1. Create hackpad
-   - add/copy in template text
+1. Reset hackpad template
 
 Before:
 
@@ -16,9 +14,7 @@ Before:
 1. Open jitsi sessions and configure password
 1. Configure jitsi captures (×2)
    - jitsi window aspect ratios
-1. Hackpad
-   - Make a+rw
-   - Add link to twitch panel
+1. Hackpad: Make a+rw
 1. (*) Open control web browser
    - (*) session notes
    - (*) audience hackpad
