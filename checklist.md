@@ -4,9 +4,20 @@
 
 Advance:
 
+1. rkdarst: test microphones
 1. Write session outline
-   - Add in extra/optional stuff
+   - First line of each section is copy-pasteable to youtube TOC,
+     including links a viewer might need (if they are known).  e.g.:
+	 - Show an old code that can be improved: https://github.com/rkdarst/pcd/
+     - Demo: Archiving and citing software using Zenodo: https://github.com/bast/smeshing → https://zenodo.org/record/3774421
+   - Start with duration in minutes (since it will still be
+     rearranged), change to cumulative time right before program.
+   - Add in extra/optional stuff to occupy time if needed
 1. Reset hackpad template
+1. Enable "Store past broadcasts"
+1. Assign
+   - Chat moderator and copier
+   - HackMD organizer
 
 Before:
 
@@ -21,7 +32,9 @@ Before:
    - (*) twitch stream control
 1. (*) rkdarst: start Xephyr session for capturing desktop
    - (*) Terminal→huge
-   - (*) Firefox - open hackpad and twitch chat
+   - (*) Firefox - open hackpad
+1. rkdarst:
+   - lights on, adjust exposure
 1. Verify each scene in OBS
 1. Verify audio devices
    - local microphone check
@@ -36,7 +49,8 @@ Before:
    - To use to index the youtube upload
 1. hackpad o-w
 1. Answer remaining hackpad questions
-1. Hackpad uploaded to rsh-notes
+1. Hackpad uploaded to rsh-notes as `XXX.md`
 1. Create a clip on twitch
-1. Create Youtube upload to (somewhere)
-   - Index the video based on session notes
+1. Create Youtube upload to CodeRefinery
+   - Index the video based on session notes (just enter e.g. `05:45`
+     in the video description)
