@@ -7,8 +7,12 @@ Advance:
 1. rkdarst: test microphones
 1. Write session outline
    - First line of each section is copy-pasteable to youtube TOC,
-     including links.
-   - Add in extra/optional stuff
+     including links a viewer might need (if they are known).  e.g.:
+	 - Show an old code that can be improved: https://github.com/rkdarst/pcd/
+     - Demo: Archiving and citing software using Zenodo: https://github.com/bast/smeshing → https://zenodo.org/record/3774421
+   - Start with duration in minutes (since it will still be
+     rearranged), change to cumulative time right before program.
+   - Add in extra/optional stuff to occupy time if needed
 1. Reset hackpad template
 1. Enable "Store past broadcasts"
 1. Assign
