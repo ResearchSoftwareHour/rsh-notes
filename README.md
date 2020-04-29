@@ -42,6 +42,7 @@ There are tons of related tools for working with code:
 - moving documentation from X to readthedocs
 - working with pip/conda for Python
 - how we use GitHub
+- Jupyter, and Jupyter pitfalls and how to compensate
 
 ### Evaluate *your* own code
 
