@@ -20,13 +20,13 @@ Here is how we track ideas and how you can contribute:
 
 ---
 
-### Types
+## Types of segments
 
 Types of segments, from least preparation to most (example prep time)
 * Q&A (0m)
 * Stump us (0m)
 * Poll to decide spontaneous topic (0m)
-* Commercial break (2m)
+* "Commercial break" (2m)
 * Point out other good stuff to listen to (5m)
 * Normal pair programming (15m)
 * Demonstrate a tool which we recently learned about
@@ -34,7 +34,12 @@ Types of segments, from least preparation to most (example prep time)
 * Review some code (20m)
 * Interviews (1h)
 
+---
+
+## Ideas for topics
+
 ### Research programming
+
 Our first focus is research software skills, such as:
 
 - a tour of the Rust programming language
@@ -44,6 +49,7 @@ Our first focus is research software skills, such as:
 - CMake best practices
 - demonstrating few Python packages that we use all the time
 - Sample data, how would analyze it?  make repo, load, reformat, wrangle, plot.
+
 
 ### Scientific computing support skills
 
@@ -55,6 +61,7 @@ There are tons of related tools for working with code:
 - working with pip/conda for Python
 - how we use GitHub
 - Jupyter, and Jupyter pitfalls and how to compensate
+
 
 ### Evaluate *your* own code
 
@@ -75,11 +82,13 @@ contacting one of us.
 
 
 ### Other courses
+
 Go through sections of other courses, such as
 - [coderefinery](https://coderefinery.org/lessons/)
 - High-performance computing
 
-## Unix tools
+
+### Unix tools
 
 Linux/Unix is the key to what we do, and having a good grasp of it
 will improve almost all of your work (whatever operating system you use):
@@ -90,6 +99,7 @@ will improve almost all of your work (whatever operating system you use):
 - getopts
 - git-pr
 - tldr
+
 
 ### Data management
 
@@ -102,6 +112,7 @@ data problems:
 - optimizing data i/o
 - how to open source a code
 
+
 ### Open science and reproducibility
 
 Good software leads to good open science, and vice versa:
@@ -111,9 +122,11 @@ Good software leads to good open science, and vice versa:
 - docker containers: how to run an image, how to containerize something
 - getting your Python project to PyPI
 
+
 ### Discussion time
 
 We answer any questions our watchers may have.  Try to stump us!
+
 
 ### Other resources
 
