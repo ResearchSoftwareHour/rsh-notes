@@ -1,12 +1,24 @@
 # Notes for [Research Software Hour](https://researchsoftwarehour.github.io/)
 
-Our program will evolve as our audience likes, but below are some of
-our initial ideas.  You can suggest more in issues in the
-[rsh-notes repository](https://github.com/ResearchSoftwareHour/rsh-notes).
+Our program will evolve with time and based on feedback from the audience.
 
 Each week, we want to do some simple stuff, some advanced stuff, some
 stuff more towards software/programming, some stuff more towards
 scientific computing/Linux.
+
+
+## How you can contribute
+
+Here is how we track ideas and how you can contribute:
+- **We use this README to save ideas for topics**. They do not have to be concrete yet,
+  they can be "half-baked", and you are most welcome to **send us
+  a pull request** with more ideas.
+- **We use the [issue tracker](https://github.com/ResearchSoftwareHour/rsh-notes/issues)
+  to develop ideas** more concretely, collect suggestions,
+  and prepare them for segments that we will use in future shows.
+  You can comment on existing issues and submit new issues.
+
+---
 
 ### Types
 
