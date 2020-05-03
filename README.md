@@ -17,6 +17,8 @@ Here is how we track ideas and how you can contribute:
   to develop ideas further**, collect suggestions,
   and prepare them for segments that we will use in future shows.
   You can comment on existing issues and submit new issues.
+- Suggest [your own code](#evaluate-your-own-code) and get constructive feedback and suggestions
+  for improvements.
 
 ---
 
