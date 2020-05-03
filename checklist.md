@@ -1,10 +1,11 @@
-## RSH checklists
+# RSH checklists
 
-# Pre-stream
+
+## Pre-stream
 
 Advance:
 
-1. rkdarst: test microphones
+1. Richard: test microphones
 1. Write session outline
    - First line of each section is copy-pasteable to youtube TOC,
      including links a viewer might need (if they are known).  e.g.:
@@ -13,7 +14,7 @@ Advance:
    - Start with duration in minutes (since it will still be
      rearranged), change to cumulative time right before program.
    - Add in extra/optional stuff to occupy time if needed
-1. Reset hackpad template
+1. Reset HackMD template
 1. Enable "Store past broadcasts"
 1. Assign
    - Chat moderator and copier
@@ -30,10 +31,10 @@ Before:
    - (*) session notes
    - (*) audience hackpad
    - (*) twitch stream control
-1. (*) rkdarst: start Xephyr session for capturing desktop
+1. (*) Richard: start Xephyr session for capturing desktop
    - (*) Terminal→huge
    - (*) Firefox - open hackpad
-1. rkdarst:
+1. Richard:
    - lights on, adjust exposure
 1. Verify each scene in OBS
 1. Verify audio devices
