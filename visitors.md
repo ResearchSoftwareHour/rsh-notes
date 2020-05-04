@@ -19,6 +19,7 @@ There are different ways you can join:
   written and name as it will be written in the schedule
 - Tell us anything in particular you would like us **to ask or not
   ask**.
+- Please tell us your preferred pronouns.
 - Can you come up with a clever icebreaker and/or question you want us
   to ask you?
 - We'll probably ask you **what do you know now about scientific
