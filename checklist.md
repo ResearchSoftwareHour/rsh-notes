@@ -42,6 +42,7 @@ Before:
    - remote microphone check + desktop audio capture
    - Adjust audio captures
 1. double-check stream key
+1. Verify that audio arrives on Twitch (either with a standalong laptop/ phone or asking watchers)
 
 
 ## Post-stream
