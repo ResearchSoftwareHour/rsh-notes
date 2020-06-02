@@ -27,6 +27,7 @@ Before:
 1. Configure jitsi captures (×2)
    - jitsi window aspect ratios
 1. Hackpad: Make a+rw
+1. Radovan: do something on GitHub to avoid typing passphrase on stream later
 1. (*) Open control web browser
    - (*) session notes
    - (*) audience hackpad
